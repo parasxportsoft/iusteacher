@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103972591040",
+    "project_id": "iusproject",
+    "storage_bucket": "iusproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103972591040:android:34ec554ccce6d054cf2425",
+        "android_client_info": {
+          "package_name": "com.ius.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Q-Ong4eld8iie0TOxVSJos66npf_LAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103972591040:android:d782c84c5ce385b8cf2425",
+        "android_client_info": {
+          "package_name": "com.iusteacher.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Q-Ong4eld8iie0TOxVSJos66npf_LAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
