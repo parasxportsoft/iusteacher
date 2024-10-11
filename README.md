@@ -1,4 +1,4 @@
-# eschool_teacher
+# IUS TEACHER
 
 //to run the application
 ```shell
